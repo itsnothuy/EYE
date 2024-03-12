@@ -60,6 +60,3 @@ We welcome contributions from the community. Please see our [CONTRIBUTING.md](CO
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
-
-This template provides a clear, structured overview of your project, making it easier for others to understand the objectives, development process, and how they can contribute. Be sure to adjust any sections as necessary to fit the specifics of your project or any additional information you'd like to include.
