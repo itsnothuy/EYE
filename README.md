@@ -1,7 +1,3 @@
-For creating a comprehensive `README.md` for your GitHub repository for the DEyesTracking project, it's essential to clearly outline the project details, objectives, descriptions, procedures, qualifications, and its relevance to professional development in a structured and engaging way. This will not only provide a clear overview of the project but also make it accessible to potential contributors, users, and stakeholders. Here's a template based on the project details you've provided:
-
----
-
 # DEyesTracking: A Health Informatics Eye-Tracking System
 
 ## Project Overview
